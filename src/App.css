@@ -4,4 +4,15 @@
   font-weight: bold;
   }
 
-  
+  .active{
+    font-weight: bold;
+    color: red !important;
+    border-bottom: 2px solid red;
+  }
+
+  .nav-item .active{
+    font-weight: bold;
+    color: red !important;
+    border-bottom: 2px solid red;
+    
+  }

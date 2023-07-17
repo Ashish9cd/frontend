@@ -9,10 +9,10 @@ const Home = () => {
       <p style={{fontSize:'50px', backgroundColor: 'lightblue' }}> inline css.jsx</p>
 
       <p className='myclass'>we use className here in jsx</p>
-       {/* <input type="text" className='Form' placeholder='First name' />  
+        <input type="text" className='Form' placeholder='First name' />  
       <input type="text" className='Form' placeholder='Last name' /><br />
       <input type="email" className='Form' placeholder='Email' /> <br />
-   <input type="password" className='Form' placeholder='Password' /> */}
+   <input type="password" className='Form' placeholder='Password' /> 
     </div>
   )
 }
